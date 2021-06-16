@@ -1,5 +1,5 @@
-# intern-hackday-2019
-This project was created during the Shazam Intern Hackday Spring 2019
+# hackday-2019
+This project was created during the Shazam Hackday Spring 2019
 
 # Project description:
 The projects main purpose is to display details regarding a song recognised after the upload of a .wav file.
@@ -19,5 +19,4 @@ It then gives the user the option to discover the artists most used words, with 
 - Fetch and Axios API
 - Express
 - Highchart
-
 
