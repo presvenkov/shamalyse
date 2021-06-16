@@ -20,3 +20,4 @@ It then gives the user the option to discover the artists most used words, with 
 - Express
 - Highchart
 
+![alt text](https://github.com/presvenkov/shamalyse/blob/main/Screenshot%202021-06-16%20at%2011.34.18.png)
