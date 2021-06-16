@@ -40,10 +40,6 @@ const sanitizeString = (str) => {
   return newString;
 }
 
-
-
-
-
 // Upload Endpoint
 app.post('/upload', (req, res) => {
   if (req.files === null) {
@@ -74,7 +70,7 @@ app.post('/upload', (req, res) => {
         body: stream,
         headers: {
                   "Content-Type": "application/octet-stream",
-                  "X-Shazam-Api-Key": "f01a8799-4c59-4790-9fa5-3bb7e53e8ad9",
+                  "X-Shazam-Api-Key": "",
                 },
 
       }).then(response => {
