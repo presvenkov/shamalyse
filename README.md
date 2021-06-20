@@ -1,4 +1,4 @@
-# hackday-2019
+# Shazam/Apple Hack Day - Shamalyze  
 This project was created during the Shazam Hackday Spring 2019
 
 # Project description:
